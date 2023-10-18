@@ -1,6 +1,6 @@
 Hello I'am Oliver Kolčák </br>
 
-i'm student working on myself to improve my knowlidge in IT. Software development / Web development / Linux / SQL Databases
+Student progressing my knowlidge in IT (Software development / Web development / Linux / SQL Databases / IT support).
 
 Working and improving in:
 
