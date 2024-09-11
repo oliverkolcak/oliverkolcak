@@ -1,3 +1,6 @@
 Hello, I'm Oliver Kolčák </br>
 
-I'm a student who is advancing my knowledge in IT.
+
+Curious IT Geek
+Third-year student of Applied Informatics at the College of Polytechnics Jihlava.
+Always interested in progressing my IT knowledge.
